@@ -1,0 +1,12 @@
+# Actividad 5.
+# Analizar el siguiente programa y explicar con tus palabras qué es lo que
+# realiza:
+#
+# numeros = [8, 15, 3, 22, 7]
+# numeros.remove(max(numeros))
+# print(numeros)
+
+
+    El código primero define los valores de la lista números, luego remueve el
+valor más grande dentro de la lista (22, en este caso) y finalmente imprime la
+lista modificada.
