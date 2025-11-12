@@ -1,0 +1,8 @@
+alfombra,500.0,32
+sombrero,130.0,45
+paraguas,87.0,58
+brújula,140.0,14
+cantimplora.0,70.0,24
+espátula,20.0,12
+cortaúñas,1000.0,2
+caja,3.0,54
